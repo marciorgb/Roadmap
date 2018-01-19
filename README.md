@@ -47,6 +47,7 @@ Deverá ter o conhecimento dos tópicos abaixo, com a capacidade de explicar a l
 	* Virtual
 - [ ] [Kernel Linux](http://www.guiafoca.org/cgs/guia/inic_interm/ch-kern.html)
 - [ ] [Scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) 
+- [ ] [Use METHOD](http://brendangregg.com/usemethod.html)
 
 ### Redes
 
