@@ -1,4 +1,4 @@
-# Roadmap Infra
+# Roadmap
 
 Este documento tem a finalidade de estratificar meu estágio para a empresa Justiça Fácil. Ele é baseado no texto de [Lucas Tamoios](https://github.com/lucastamoios/programmer-roadmap).
 
