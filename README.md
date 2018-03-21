@@ -15,7 +15,8 @@ Este documento tem a finalidade de estratificar meu estágio para a empresa Just
 	* [Segurança da Informação](#seguranca-da-informação) 
 	* [Alta Disponibilidade](#alta-disponibilidade)
 	* [Otimização de Recursos](#otimizacao-de-recursos)
-* Ferramentas
+* Ferramentas e Linguagens
+	* [Python](#python)
 	* [Git](#git)
 	* [Ansible](#ansible)
 	* [Docker](#docker)
@@ -102,8 +103,15 @@ Deverá ter o conhecimento dos tópicos abaixo, com a capacidade de explicar a l
 - [ ] Otimização de blocos 
 - [ ] Otimização baseado em diferenças entre a aplicação
 
-## Ferramentas
+## Ferramentas e Linguagens 
 Dever ter a capacidade de expliocar comandos AD-HOC e também ser capaz de utilizar qualquer uma das ferramentas abaixo aplicando o que é proposto para a mesma a nível de Infra. 
+
+### Python 
+
+- [ ] Deve ser capaz de enter de fazer scripts em python
+- [ ] Concluir o path de Python do [PluralSight](https://app.pluralsight.com/paths/skills/python)
+- [ ] Melhorar suas skills no path anterior em 10%am
+
 ### Git
 
 - [ ] [Conceitos básicos](https://en.wikipedia.org/wiki/Git)
