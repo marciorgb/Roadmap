@@ -1,8 +1,6 @@
 # Roadmap
 
-Este documento tem a finalidade de estratificar meu estágio para a empresa Justiça Fácil. Ele é baseado no texto de [Lucas Tamoios](https://github.com/lucastamoios/programmer-roadmap).
-
-
+Esse Roadmap tem a finalidade de ser um guia para o aprendizado na área DevOps [Márcio Barborsa](https://github.com/marciorgb/Roadmap).
 
 
 ## Conteúdo
@@ -27,8 +25,6 @@ Este documento tem a finalidade de estratificar meu estágio para a empresa Just
 	* [Proatividade](#proatividade)
 	* [Planejamento](#planejamento)
 	* [Negociação](#negociacao)
-* Cronograma semanal
-	* [Tabela](#cronograma-semanal)
 * Fontes
 	* [Livros](#livros)
 	* [Sites](#sites)
@@ -235,15 +231,6 @@ Dever ter a capacidade de expliocar comandos AD-HOC e também ser capaz de utili
 
 * Priorizar atividades
 * Definir deadlines
-
-## Cronograma Semanal 
-
-Horas | Uso
------------- | -------------
-04 | Estudo Individual
-02 | Testes de ferramentas
-10 | Atendimento a demandas do JF
-04 | Flexíveis
 
 ## Fontes 
 
